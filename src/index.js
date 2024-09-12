@@ -111,7 +111,8 @@ const quotes = [
     "I didn’t fail the test. I just found 100 ways to do it wrong. – Benjamin Franklin",
     "Happiness is not something ready made. It comes from your own actions. – Dalai Lama",
     "Whatever you are, be a good one. – Abraham Lincoln",
-    "The future belongs to those who believe in the beauty of their dreams. – Eleanor Roosevelt"
+    "The future belongs to those who believe in the beauty of their dreams. – Eleanor Roosevelt",
+    "Every poo poo time is a pee pee time but not every pee pee time is a poo poo time. - A very wise man"
 ];
 
 
